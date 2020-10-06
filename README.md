@@ -1,6 +1,6 @@
 ### Hi 🤘, I am Murat.
 
-![alt](https://upload.wikimedia.org/wikipedia/commons/a/a4/Mandelbrot_sequence_new.gif)
+![https://upload.wikimedia.org/wikipedia/commons/a/a4/Mandelbrot_sequence_new.gif](https://upload.wikimedia.org/wikipedia/commons/a/a4/Mandelbrot_sequence_new.gif)
 
 A mathematician / data scientist from Antalya, Turkey.
 
