@@ -1,7 +1,6 @@
 ### Hi 🤘, I am Murat.
 A mathematician / data scientist from Antalya, Turkey.
 
-- 🔭 I’m currently working on this page. 
 - 📫 How to reach me: muratkoptur@yandex.com 
 
 
