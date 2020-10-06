@@ -1,6 +1,6 @@
 ### Hi 🤘, I am Murat.
 
-![](https://media.giphy.com/media/l0GRkJykrKi6JQSxW/giphy.gif)
+![](https://media.giphy.com/media/l0MYrokk2rXUsebKw/giphy.gif)
 
 A mathematician / data scientist from Antalya, Turkey.
 
