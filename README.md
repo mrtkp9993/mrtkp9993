@@ -13,3 +13,9 @@ A mathematician / data scientist from Antalya, Turkey.
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mrtkp9993)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+<a href="https://www.jetbrains.com/?from=Cpp-Examples"><img src='https://user-images.githubusercontent.com/17238910/109525172-5304ce00-7ac2-11eb-83cd-8e80905218a7.png' width='100' height='100'></a>
+                                                                                                                                       
+Thanks to Jetbrains for providing open-source licenses to my projects.
