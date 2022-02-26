@@ -25,7 +25,7 @@ jobs:
           user: mrtkp9993
           template: classic
           base: header, activity, community, repositories, metadata
-          config_display: columns
+          config_display: large
           config_octicon: yes
           config_timezone: Europe/Istanbul
           config_twemoji: yes
