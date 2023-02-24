@@ -14,6 +14,11 @@ My main interests:
 * Mathematical & Statistical Modeling
 * Time Series Analysis & Modeling
 
+## My Products
+
+* [tradesly AI Roboadvisor](https://play.google.com/store/apps/details?id=com.tradesly.tradesly)
+* [tradeslyPro AI Roboadvisor](https://muratkoptur.com/tradeslyPro/)
+
 ## My tech stack (mostly but not complete)
 
 * Programming langs
