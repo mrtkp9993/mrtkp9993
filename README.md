@@ -16,8 +16,8 @@ My main interests:
 
 ## My Products
 
-* [tradesly AI Roboadvisor](https://play.google.com/store/apps/details?id=com.tradesly.tradesly)
-* [tradeslyPro AI Roboadvisor](https://muratkoptur.com/tradeslyPro/)
+* [tradeslyFX Forex AI Roboadvisor](https://play.google.com/store/apps/details?id=com.tradesly.tradeslyfx)
+* [tradeslyPro Cryptocurrency AI Roboadvisor](https://play.google.com/store/apps/details?id=com.tradesly.tradeslypro)
 
 ## My tech stack (mostly but not complete)
 
