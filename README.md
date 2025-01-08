@@ -16,13 +16,7 @@ My main interests:
 * Mathematical & Statistical Modeling
 * Time Series Analysis & Modeling
 
-## My Paid Trading Apps
-
-* [tradeslyFX Forex AI Roboadvisor](https://play.google.com/store/apps/details?id=com.tradesly.tradeslyfx)
-* [tradeslyPro Cryptocurrency AI Roboadvisor](https://play.google.com/store/apps/details?id=com.tradesly.tradeslypro)
-* [tradeslyNX Borsa Istanbul AI Roboadvisor](https://play.google.com/store/apps/details?id=com.tradesly.tradeslynxbist)
-
-## My Free Trading Apps
+## My Open Source Trading Intelligence Apps
 
 * [Candlestick Pattern Backtester](https://github.com/mrtkp9993/tradesly-cpat)
 * [Fibonacci Retracement Levels / Volume Profile Support-Resistance Calculator](https://github.com/mrtkp9993/tradesly-supres)
